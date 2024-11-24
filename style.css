@@ -24,7 +24,7 @@ hr{
 }
 
 footer{
-    background-color: blue;
+    background-color: skyblue;
     margin: 0 auto;
     width: 90vw;
     max-width:400px;
@@ -34,7 +34,7 @@ footer{
 
     padding: 10px 5px;
 
-    margin-top: 20px;
+    margin-top: 10px;
 }
 
 
@@ -44,7 +44,7 @@ footer{
 .fa-x-twitter,
 .fa-tiktok,
 .fa-youtube{
-    color: white;
+    color: black;
     font-size: 20px;
     margin-left: 10px;
     margin-right: 10px;
@@ -56,7 +56,7 @@ footer{
 .fa-x-twitter:hover,
 .fa-tiktok:hover,
 .fa-youtube:hover{
-    color: lightskyblue;
+    color: gray;
 }
 
 #board{
