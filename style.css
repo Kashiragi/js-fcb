@@ -63,7 +63,7 @@ footer{
     width: 400px;
     height: 400px;
     background-color: #cdc1b5;
-    border: 6px solid #b7dff2;
+    border: 6px solid #beb6af;
     margin: auto;
     
     display: flex;
@@ -76,7 +76,7 @@ footer{
 .tile{
     width: 90px;
     height: 90px;
-    border: 5px solid #b7dff2;
+    border: 5.3px solid #beb6af;
 
     font-size: 25px;
 
